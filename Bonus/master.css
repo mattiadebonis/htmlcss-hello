@@ -1,8 +1,12 @@
-h1{
+.titolo{
 
     color: red;
 }
-p{
+.sottotitolo{
+
+
+}
+.paragrafo{
     color: lightgray;
 
 }
